@@ -1,0 +1,2081 @@
+@media all and (min-width:1400px) {
+    .container {
+        max-width: 1620px;
+    }
+}
+
+@media all and (max-width: 1550px) {
+    .single_review_items p {
+        max-width: 690px;
+        font-size: 20px;
+        line-height: 34px;
+    }
+
+    .single_review_left h4 {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    .banner_right img {
+        transform: translateY(-45px);
+    }
+    .banner_right img {
+        max-width: 502px !important; 
+    }
+
+    .single_banner_item {
+        height: 650px;
+    }
+    .single_banner_item_1 .banner_right img { 
+        max-width: 583px !important; 
+    }
+}
+
+@media all and (max-width: 1399px) {
+    .service_inner_box {
+        text-align: center;
+        position: relative;
+        width: 222px;
+        height: 252px;
+        padding: 101px 0;
+    }
+    .single_banner_item_1 .left_side_banner { 
+        max-width: 409px;
+    }
+    
+    .single_banner_item { 
+        height: 543px; 
+    }
+    .banner_area_carousel.owl-carousel .owl-nav button.owl-next img ,
+    .banner_area_carousel.owl-carousel .owl-nav button.owl-prev img {
+        width: 36px;
+    }
+    .banner_right img {
+        max-width: 380px !important;
+    }
+    .single_banner_item_2 .left_side_banner {
+        max-width: 353px;
+    }
+    .single_banner_item_3 .left_side_banner {
+        max-width: 212px;
+    }
+    .single_banner_item_4 .left_side_banner {
+        max-width: 326px;
+    }
+    .single_banner_item_5 .left_side_banner {
+        max-width: 331px;
+    }
+    .single_banner_item_6  .left_side_banner { 
+        max-width: 220px; 
+    }
+    .left_side_banner h3 { 
+        font-size: 46px; 
+        line-height: 55px;
+    }
+    .left_side_banner p { 
+        font-size: 18px; 
+        line-height: 26px; 
+    }
+    .single_banner_item_1 .banner_right img {
+        transform: translateY(-10px);
+        margin-left: 0;
+        max-width: 486px !important;
+    }
+
+    .dental_single p {
+        font-size: 16px;
+        width: 151px;
+    }
+
+    .dental_row {
+        justify-content: space-between;
+    }
+
+    .option_a_banner_main_img {
+        max-width: 60%;
+    }
+
+    .portals_wrapper .tittle_pera {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .single_items_text .single_item_tittle_text {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .banner_top_content .sub_tittle {
+        font-size: 18px;
+        line-height: 29px;
+    }
+
+    .client_reporting_bottom_left .swift_content {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .client_reporting_bottom_right ul li,
+    .client_reporting_bottom_left ul li {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .client_reporting_bottom_right .swift_content {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .client_reporting_text {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .client_reporting_top_right ul li {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .portals_wrapper .subtittle {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .single_core .core_disc {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .contact_single_box_content ul li {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .talk_wrapper .sub_text {
+        font-size: 22px;
+        line-height: 36px;
+        margin-top: 19px;
+    }
+
+    .banner_inner_main_area .banner_tittle {
+        font-size: 36px;
+    }
+
+    .dental_custom_item_img.dental_custom_item4 img {
+        width: 47px;
+    }
+
+    .dental_custom_item_img.dental_custom_item3 img {
+        width: 31px;
+    }
+
+    .dental_custom_item_img.dental_custom_item2 img {
+        width: 43px;
+    }
+
+    .dental_custom_item_img.dental_custom_item1 img {
+        width: 49px;
+    }
+
+    .dental_custom_item_img.dental_custom_item5 img {
+        width: 48px;
+    }
+
+    .single_items_text .single_pera {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .service_two .service_inner_box {
+        margin-left: 21px;
+    }
+
+    .banner_inner_main_area .banner_sub_tittle {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .banner_inner_main_area .banner_contents {
+
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .drop_down_menu {
+        padding-top: 59px;
+    }
+
+    .mega_menu_mail {
+        padding-top: 61px;
+    }
+
+    .dental_icon_item.dental_icon_item1 img {
+        width: 75px;
+    }
+
+    .dental_icon_item.dental_icon_item2 img {
+        width: 53px;
+    }
+
+    .dental_icon_item.dental_icon_item3 img {
+        width: 41px;
+    }
+
+    .dental_icon_item.dental_icon_item4 img {
+        width: 69px;
+    }
+
+    .dental_icon_item.dental_icon_item5 img {
+        width: 85px;
+    }
+
+    .dental_icon_item {
+        width: 146.98px;
+        height: 132.214px;
+    }
+
+    .dental_row {
+        gap: 20px;
+    }
+
+    .dental_support>p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .dental_imgg_item>p {
+        font-size: 14px;
+        line-height: 23.23px;
+    }
+
+    .model_right>h3,
+    .modul_left>h3 {
+        font-size: 19.669px;
+        line-height: 30.384px;
+    }
+
+    .model_right ul li p {
+        font-size: 13.073px;
+        line-height: 21.669px;
+    }
+
+    .content_modul_item h3 {
+        font-size: 13.073px;
+        line-height: 19.669px;
+    }
+
+    .content_first_modul ul li img {
+        width: 78px;
+    }
+
+    .dental_custom_right_content h3,
+    .module_main_content_box h3 {
+
+        font-size: 18px;
+    }
+
+    .dental_custom_right_content p,
+    .module_main_content_box p {
+
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .content_modul_item p {
+        font-size: 13.073px;
+    }
+
+    .result_row {
+        width: 100%;
+    }
+
+    .result_top h1 {
+        font-size: 30.051px;
+        line-height: 30px;
+    }
+
+    .result_top h1 span {
+        font-size: 24px;
+    }
+
+    .result_item>p {
+        font-size: 14.178px;
+        line-height: 18.858px;
+    }
+
+    .result_top {
+        width: 120px;
+        height: 120px;
+    }
+
+    .result_top p {
+        font-size: 14.106px;
+    }
+
+    .dorp_down {
+        width: 182px;
+    }
+
+    .mega_menu_menu ul li {
+        margin-bottom: 5px;
+    }
+
+    .footer_single a,
+    .footer_single h3 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 23px;
+    }
+
+    .mega_menu_menu ul li a img {
+        width: 20px;
+    }
+
+    .mega_menu_menu ul li a span {
+        font-size: 14px;
+        line-height: 23px;
+        margin-top: 8px;
+    }
+
+    .client_review_main_area::after {
+        height: 82%;
+    }
+
+    .single_review_left h4 {
+        margin: 4px 0 25px 95px;
+    }
+
+    .client_review_title {
+        margin-bottom: 5px;
+    }
+
+    .single_review_img {
+        width: 47%;
+    }
+
+    .single_review_items {
+        height: 445px;
+    }
+
+    .single_image_revew_one img {
+        width: 573px !important;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .single_review_img.single_image_revew_two img {
+        object-fit: inherit;
+        height: 512px;
+        transform: translateY(-67px);
+        width: 441px !important;
+    }
+
+    .single_review_img.single_image_revew_three img {
+        width: 757px !important;
+        height: 521px;
+        transform: translateY(-75px);
+        margin-left: -141px;
+    }
+
+    .single_review_img.single_image_revew_four img {
+        width: 542px !important;
+        height: 409px;
+        transform: translateY(36px);
+        margin-left: -48px;
+    }
+
+    .single_review_img.single_image_revew_five img {
+        width: 524px !important;
+        height: 419px;
+        transform: translateY(26px);
+    }
+    .single_review_img.single_image_revew_six img {
+        width: 445px !important;
+        height: 395px;
+        transform: translate(-65px,54px);
+    }
+
+
+
+    .client_review_left_area .owl-prev img,
+    .client_review_left_area .owl-next img {
+        width: 30px;
+    }
+
+    .single_review_left p {
+        font-size: 16px;
+    }
+
+    .single_review_left h4 {
+        width: 70%;
+        line-height: 23px;
+        font-size: 16px;
+        margin-top: 12px;
+    }
+
+    .copy_textt p {
+        font-size: 14px;
+    }
+
+    .footer_single h3 {
+        font-size: 20px;
+    }
+
+    .footer_single ul li a {
+        font-size: 14px;
+    }
+
+    .footer_logo p {
+        font-size: 14px;
+    }
+
+    .menu_ul {
+        gap: 25px;
+    }
+
+    .menu_ul li a {
+        font-size: 14px;
+    }
+
+    .logo a img {
+        max-width: 200px;
+    }
+
+    .single_service_items:nth-child(1) .service_inner_box img {
+        height: 35px;
+        margin-bottom: 15px;
+    }
+
+    .single_service_items:nth-child(2) .service_inner_box img {
+        width: auto;
+        height: 30px;
+        margin-bottom: 25px;
+    }
+
+    .single_service_items:nth-child(3) .service_inner_box img {
+        width: auto;
+        height: 35px;
+        margin-bottom: 25px;
+    }
+
+    .service_inner_box p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .service_one {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33%;
+        flex: 0 0 33%;
+    }
+
+    .text_30 {
+        font-size: 22px;
+        line-height: 24px;
+        letter-spacing: 0.6px;
+    }
+
+    .benefit_content_area {
+        gap: 60px;
+    }
+
+    .why_choose_us_area ul li {
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        -ms-grid-row-align: flex-start;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    .client_right_review {
+        width: 565px;
+        height: 550px;
+        right: 0px;
+        bottom: -108px;
+    }
+
+    .single_review_items p {
+        color: #00152E;
+        font-style: italic;
+        max-width: 490px;
+        width: 100%;
+        margin-left: 95px;
+        line-height: 24px;
+        /* padding: 25px 0; */
+        padding-top: 61px;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        font-size: 110px;
+        left: 0px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        font-size: 110px;
+        right: 0;
+    }
+
+    .checkbox_inner_area {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        gap: 70px;
+    }
+
+    .footer_logo a img {
+        max-width: 270px;
+        width: 100%;
+    }
+
+    .footer_middle_txt p {
+        font-size: 20px;
+        line-height: 35px;
+        letter-spacing: 0.4px;
+        max-width: 505px;
+        width: 100%;
+    }
+    .mdoule_heading_area h2 {
+        font-size: 36px;
+        line-height: 36px;
+        letter-spacing: 1px;
+        margin-bottom: 20px;
+    }
+    .mdoule_heading_area p {
+        font-size: 19.126px;
+        line-height: 32.644px;
+        letter-spacing: 0.463px;
+    }
+    .banner_area_carousel.owl-theme .owl-dots .owl-dot span {
+        margin: 0 14px;
+    }
+}
+
+@media all and (max-width:1199px) {
+    .banner_single_items img {
+        max-width: 220px;
+    }
+    .banner_right img {
+        max-width: 298px !important;
+    }
+    .single_banner_item {
+        height: 466px;
+    }
+    .single_banner_item_1 .banner_right img {
+        transform: translateY(-10px);
+        margin-left: 23px;
+        max-width: 303px !important;
+    }
+    .banner_area_carousel.owl-carousel .owl-nav button.owl-next img, .banner_area_carousel.owl-carousel .owl-nav button.owl-prev img {
+        width: 20px;
+    }
+
+    .why_banner_left,
+    .about_banner_main {
+        padding-bottom: 90px;
+    }
+
+    .dental_icon_item {
+        height: 147.214px;
+    }
+
+    .dental_custom_item_img.dental_custom_item1 img {
+        width: 44px;
+    }
+
+    .dental_custom_item_img.dental_custom_item2 img {
+        width: 41px;
+    }
+
+    .dental_custom_item_img.dental_custom_item3 img {
+        width: 31px;
+    }
+
+    .dental_custom_item_img.dental_custom_item4 img {
+        width: 47px;
+    }
+
+    .dental_custom_item_img.dental_custom_item5 img {
+        width: 47px;
+    }
+
+    .client_review_main_area {
+        margin-top: -2px;
+    }
+
+    .result_title h2 {
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .result_title p {
+        font-size: 18px;
+    }
+
+    .single_image_revew_one img {
+        width: 355px !important;
+        height: 284px;
+        object-fit: cover;
+        transform: translateY(146px);
+    }
+
+    .model_right>h3,
+    .modul_left>h3 {
+        font-size: 15.669px;
+        line-height: 23.384px;
+    }
+
+    .single_review_img.single_image_revew_four img {
+        width: 356px !important;
+        height: 260px;
+        transform: translateY(170px);
+    }
+
+    .single_review_img.single_image_revew_five img {
+        width: 285px !important;
+        height: 257px;
+        transform: translateY(173px);
+    }
+
+    .single_review_img.single_image_revew_two img {
+        height: 401px;
+        transform: translateY(28px);
+        width: 322px !important;
+    }
+
+    .single_review_img.single_image_revew_three img {
+        width: 531px !important;
+        height: 420px;
+        transform: translateY(9px);
+    }
+
+    .client_review_title {
+        padding-top: 52px;
+        padding-bottom: 25px;
+    }
+
+    .single_review_left h4 {
+        margin: 38px 0 25px 95px;
+    }
+
+    .custom_row_3 {
+        flex-direction: column;
+        gap: 30px 0;
+    }
+
+    .single_review_img {
+        width: 305px;
+    }
+
+    .copy_textt p {
+        text-align: center;
+    }
+
+    .footer_logo p {
+        margin: 30px auto;
+    }
+
+    .footer_logo ul {
+        justify-content: center;
+    }
+
+    .logo a img {
+        max-width: 160px;
+    }
+
+    .heading1 {
+        font-size: 58px;
+        line-height: 75px;
+    }
+
+    .service_two {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 43%;
+        flex: 0 0 43%;
+    }
+
+    .service_one {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33%;
+        flex: 0 0 33%;
+    }
+
+    .service_three {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33%;
+        flex: 0 0 33%;
+    }
+
+    .single_service_items {
+        margin-bottom: 50px;
+    }
+
+    .single_service_items:nth-child(3) .service_list_details ul {
+        margin-left: 45px;
+    }
+
+    .client_review_main_area {
+        padding: 80px 0 0px 0;
+    }
+
+    .client_right_review {
+        width: 465px;
+        height: 490px;
+        bottom: -80px;
+    }
+
+    .footer_content_area {
+        padding: 69px 0 96px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        text-align: center;
+        gap: 25px;
+    }
+
+    .checkbox-wrapper-33 .checkbox__textwrapper {
+        font-size: 18px;
+        line-height: 40px;
+        letter-spacing: 0.48px;
+    }
+
+    .checkbox-wrapper-33 .checkbox__symbol {
+        margin-right: 12px;
+        width: 30px;
+        height: 27px;
+
+    }
+    .single_review_img.single_image_revew_six img {
+        width: 345px !important;
+        height: 301px;
+        transform: translate(-80px,129px);
+    }
+
+}
+
+@media all and (min-width:991px) {
+    .menu>ul {
+        display: flex !important;
+    }
+
+
+    .menu {
+        display: block !important;
+    }
+
+    .menu_mobile_last {
+        display: none !important;
+    }
+}
+
+@media all and (max-width:991px) {
+    .banner_top_area {
+        gap: 50px;
+        padding: 125px 0 125px;
+    }
+    .single_banner_item {
+        height: 644px;
+        padding-bottom: 2px;
+    }
+    .single_banner_item_1 .banner_right img { 
+        position: inherit; 
+    }
+    .single_banner_item { 
+        flex-direction: column-reverse; 
+    }
+    .single_banner_item_1 .banner_right img { 
+        margin: 0 auto;
+    }
+    .left_side_banner {
+        margin: 0 auto;
+        max-width: 432px !important;
+        width: 100%;
+    }
+    .banner_right img {
+        transform: translateY(-33px);
+    }
+    .banner_right img { 
+        margin: 0 auto;
+    }
+    .sk_download_box {
+        padding: 57px 0 0 0; 
+    }
+    .career_platform .single_pera.digital_single_pera {
+        line-height: 26px;
+    }
+
+    .career .banner_tittle {
+        margin-bottom: 16px ; 
+    }
+    .career_banner_img,
+    .career_btn {
+        margin-bottom: 50px; 
+    }
+
+
+    .about_img img,
+    .why_triforza_banner img,
+    .option_a_banner_img img {
+        display: block;
+    }
+
+    .why_triforza_img,
+    .about_banner_img,
+    .option_a_banner_main_img {
+        display: none;
+    }
+
+    .clients_think_main_area {
+        padding: 100px 0 50px 0;
+    }
+
+    .lets_talk_main_area {
+        padding: 100px 0;
+    }
+
+    .talk_wrapper .sub_text {
+        font-size: 27px;
+        line-height: normal;
+    }
+
+    .data_security_main {
+        padding: 70px 0 100px 0;
+    }
+
+    .banner_top_content .sub_tittle {
+        padding-top: 40px;
+    }
+
+    .data_security_img {
+        padding: 0 0 40px 0;
+        text-align: center;
+    }
+
+    .data_security_img img {
+        max-width: 573px;
+    }
+
+    .mobile_none {
+        display: none;
+    }
+
+    .mobile_block {
+        display: block;
+    }
+
+    .banner_inner_left_content {
+        padding-top: 50px;
+    }
+
+    .why_banner_left,
+    .about_banner_main {
+        padding-bottom: 70px;
+    }
+
+    .why_banner_main {
+        padding-top: 70px;
+    }
+
+    .banner_inner_left_content {
+        max-width: inherit;
+        padding-right: 20px;
+    }
+
+    .why_banner_left {
+        max-width: inherit;
+        padding-right: 20px;
+    }
+
+    .inner_banner_content {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .option_banner_main {
+        padding-bottom: 90px;
+    }
+
+    .option_a_banner_right {
+        background: none;
+    }
+
+    .option_a_banner_img {
+        display: block;
+    }
+
+    .option_banner_b_main {
+        padding-bottom: 0;
+    }
+
+    .option_b_right {
+        padding-top: 10px !important;
+        padding-left: 0;
+        padding-bottom: 30px;
+    }
+
+    .banner_short_img {
+        margin: 0 auto;
+        padding-bottom: 40px;
+    }
+
+    .online_reporting_banner {
+        padding: 70px 0;
+    }
+
+    .client_reporting_bottom,
+    .client_reporting_top {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .client_reporting_main_area {
+        padding: 50px 0;
+    }
+
+    .client_reporting_top_right .broker_content {
+        padding-bottom: 10px;
+    }
+
+    .contact_all_services {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    }
+
+    .contact_service_main_area {
+        padding: 60px 0;
+    }
+
+    .contact_single_box_img {
+        margin: 0 auto;
+    }
+
+    .contact_single_items {
+        padding: 40px;
+    }
+
+    .digital_platform_banner_items {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .portals_wrapper .subtittle {
+        padding-top: 30px;
+    }
+
+    .portlas_all_items {
+        padding-top: 50px;
+    }
+
+    .portlas_all_items .workflow_single_item {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .portals_single,
+    .member_portals {
+        justify-content: center;
+    }
+
+    .core_items_content {
+        gap: 30px;
+        padding-top: 30px;
+    }
+
+    .single_core .core_disc {
+        padding-top: 10px;
+    }
+
+    .banner_inner_left_content .about_sub_tittle {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .single_items_text .single_item_tittle_text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .banner_top_content .sub_tittle {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .client_reporting_bottom_left .swift_content {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .client_reporting_bottom_right ul li,
+    .client_reporting_bottom_left ul li {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .portals_wrapper .tittle_pera {
+        font-size: 14px;
+        line-height: 24px;
+        margin-top: 9px;
+    }
+
+    .portals_wrapper .subtittle {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .single_items_text .single_pera {
+        padding-top: 0;
+    }
+
+    .workflow_wrapper .sub_tittle {
+        font-size: 14px;
+    }
+
+    .single_items_text .single_pera {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .contact_single_box_content .box_tittle {
+
+        font-size: 16px;
+    }
+
+    .contact_single_box_content ul li {
+
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .dental_icon_item {
+        height: 150.214px;
+    }
+
+    .dental_row {
+        flex-wrap: wrap;
+    }
+
+    .dental_main_area {
+        padding: 60px 0;
+    }
+
+    .moduls_row svg {
+        display: none;
+    }
+
+    .modul_left h3 {
+        text-align: center;
+    }
+
+    .result_top p {
+        font-size: 12.106px;
+    }
+
+    .result_top h1 {
+        font-size: 20.051px;
+        line-height: 19px;
+    }
+
+    .result_top {
+        width: 86px;
+        height: 86px;
+    }
+
+    .model_right>h3,
+    .modul_left>h3 {
+        margin-bottom: 20px;
+    }
+
+    .moduls_row {
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .footer_single a,
+    .footer_single h3 {
+        display: block;
+    }
+
+    .menu_ul li {
+        width: 100%;
+    }
+
+    .collaps_menu {
+        /* background: #272244; */
+        width: 100%;
+        padding: 0 0;
+        margin: 0;
+        margin-left: 25px;
+    }
+
+    .menu_ul li:last-child a {
+        border: none;
+    }
+
+    .collaps_menu li a {
+        font-size: 12px;
+    }
+
+    .single_review_img img {
+        display: none !important;
+    }
+
+    .mobile_client_img {
+        display: block;
+    }
+
+    html {
+        overflow-x: hidden;
+    }
+
+    .mobile_client_img {
+        width: 100px;
+        border-radius: 100%;
+        overflow: hidden;
+        height: 100px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .single_review_left h4 {
+        padding-bottom: 10px;
+    }
+
+    .client_review_title.sk_client_review_title {
+        left: 0;
+        right: 0;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .triforza_benifit_main_area {
+        padding: 120px 0 18px;
+    }
+
+    .header_btn_area.new_btns {
+        justify-content: center;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev,
+    .owl-carousel .owl-nav button.owl-next {
+        top: 25%;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    /* .menu_mobile_last{
+        display: block;
+    } */
+    .single_service_items:nth-child(1) .service_inner_box {
+        padding: 100px 0 101px !important;
+    }
+
+    .menu_ul li a {
+        margin-bottom: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 1px solid #dddddd2e;
+        padding: 8px 0;
+    }
+
+    .menu .collaps_menu {
+        display: none;
+        /* initially hide all submenus */
+        background-color: transparent;
+        /* Background color for the dropdown */
+    }
+
+    .dorp_down {
+        display: none;
+    }
+
+    .menu_ul {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        z-index: 99999;
+        left: 0;
+        right: 0;
+        gap: 0px;
+        top: 100%;
+        background: #1c153e;
+        padding: 25px 0;
+    }
+
+    .mobile_bars_with_btn {
+        display: flex;
+        align-items: center;
+        flex: 0 0 55%;
+        justify-content: flex-end;
+    }
+
+    .service_two {
+        flex: 0 0 34%;
+    }
+
+    .service_row {
+        flex-direction: column;
+    }
+
+    .copy_textt {
+        padding: 20px 0;
+    }
+
+    .single_review_img {
+        position: inherit;
+        display: none;
+    }
+
+    .single_review_left h4 {
+        margin: 25px 0 0 0;
+        text-align: center;
+    }
+
+    .client_review_title {
+        justify-content: center;
+        display: flex;
+        padding: 25px 0;
+    }
+
+    .single_review_items p {
+        max-width: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .single_review_left {
+        flex: 0 0 100%;
+    }
+
+    .owl-theme .owl-dots {
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        justify-content: center;
+        display: flex;
+    }
+
+    .single_review_left h4 {
+        width: 100%;
+    }
+
+    /* .single_review_items {
+        height: 800px;
+        flex-direction: column-reverse;
+    } */
+    .mega_menu_title h3 {
+        font-size: 20px;
+    }
+
+    .mega_menu_menu ul li a span {
+        font-size: 14px;
+    }
+
+    .mega_menu_menu {
+        margin-bottom: 28px;
+    }
+
+    .mega_menu {
+        padding: 40px;
+    }
+
+    .heading1 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    .service_content_area {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        padding-top: 55px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .single_service_items:nth-child(1) .service_inner_box {
+        padding: 70px 0 101px;
+        margin: auto;
+    }
+
+    .single_service_items:nth-child(1) .service_list_details,
+    .single_service_items:nth-child(2) .service_list_details {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        gap: 35px;
+
+    }
+
+    .service_two .service_inner_box {
+        margin: auto;
+    }
+
+    .service_inner_box {
+        width: 295px;
+        height: 334px;
+        padding: 101px 0;
+        margin: auto;
+    }
+
+    .single_service_items {
+        margin-bottom: 50px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .benefit_content_area {
+        gap: 60px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .client_right_review {
+        display: none;
+    }
+
+    .checkbox_inner_area {
+        gap: 0;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .mobile_bars_box {
+        display: block;
+        text-align: center;
+    }
+
+    .click_bars {
+        background: #42F4B1;
+        width: 38px;
+        height: 38px;
+        color: #000;
+        display: inline-block;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        font-size: 20px;
+    }
+
+    .menu_ul li {
+        text-align: left;
+        /* margin-bottom: 10px; */
+    }
+
+    .click_bars:hover {
+        color: #000;
+    }
+
+    .menu>ul {
+        display: none;
+    }
+
+    .header_btn_area,
+    .mobile_bars_box,
+    .logo {
+        flex: 0 0 33%;
+    }
+
+    .header_btn_area {
+        flex: 0 0 58%;
+    }
+
+    .header_btn_area {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .menu>ul {
+        flex-direction: column;
+        position: absolute;
+        z-index: 99;
+        left: 0;
+        right: 0;
+        top: 101%;
+        background: #20194B;
+        padding: 16px 0;
+    }
+
+    .mega_menu {
+        top: 180px;
+    }
+
+    .dorp_down {
+        width: 100%;
+    }
+
+    .menu>ul {
+        gap: 15px;
+    }
+    .mobile_client_img.mobile_client_img_two {
+        width: 75px;
+    }
+}
+
+@media all and (max-width:767px) {
+    .logo a img {
+        max-width: 150px;
+    }
+    .left_side_banner { 
+        text-align: center;
+    }
+    .left_side_banner a { 
+        font-size: 18px; 
+    }
+    .banner_area_carousel.owl-carousel .owl-nav button.owl-next {
+        right: 0;
+    }
+    .banner_area_carousel.owl-carousel .owl-nav button.owl-prev {
+        left: 0;
+    }
+    .footer_single.footer_single_last a:first-child, .headline-f {
+        margin-bottom: 5px;
+    }
+    .left_side_banner h3 {
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .left_side_banner p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .career_banner_img {
+        border-radius: 0 0 0 67px; 
+    }
+
+    .banner_inner_left_content .single_text {
+
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .dental_single p {
+        font-size: 12px;
+        margin-top: 9px;
+        width: 107px;
+        line-height: 18px;
+    }
+
+    .clients_think_main_area {
+        padding: 60px 0 50px 0;
+    }
+
+    .lets_talk_main_area {
+        padding: 60px 0;
+    }
+
+    .talk_wrapper .sub_text {
+        font-size: 25px;
+    }
+
+    .data_security_main {
+        padding: 50px 0 80px 0;
+    }
+
+    .banner_top_content .sub_tittle {
+        padding-top: 35px;
+    }
+
+    .banner_single_items {
+        padding-top: 6px;
+    }
+
+    .about_img {
+        width: 100%;
+    }
+
+    .banner_inner_left_content {
+        padding-top: 40px;
+    }
+
+    .banner_top_content .about_tittle {
+        padding-bottom: 20px;
+        font-size: 40px;
+        line-height: 1;
+    }
+
+    .banner_top_content .banner_tittle {
+        font-size: 40px;
+        line-height: 1;
+    }
+
+    .why_banner_main {
+        padding-top: 60px;
+    }
+
+    .option_banner_main {
+        padding-bottom: 50px;
+    }
+
+    .option_b_right {
+        margin-top: -60px !important;
+        padding-top: 20px !important;
+    }
+
+    .contact_service_main_area {
+        padding: 50px 0;
+    }
+
+    .capabilites_single_items {
+        max-width: 100%;
+    }
+
+    .workflow_wrapper .sub_tittle {
+        max-width: 100%;
+        padding: 30px 0 40px 0;
+    }
+
+    .workflow_single_item {
+        flex-wrap: wrap;
+    }
+
+    .digital_platform_banner_items {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .core_items_content {
+        gap: 15px;
+    }
+
+    .footer_single a {
+        margin-bottom: 6px;
+    }
+
+    .footer_logo p {
+        line-height: 25px;
+        width: 100%;
+    }
+
+    .footer_single ul li a {
+        line-height: 30px;
+    }
+
+    .dental_imgg {
+        margin-top: 45px;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .module_chart_box .module_main_content_box p {
+        width: 100%;
+    }
+
+    .result_row {
+        justify-content: inherit;
+        gap: 20px;
+    }
+
+    .single_review_items p {
+        padding-top: 24px;
+    }
+
+    .dental_custom_right_content h3,
+    .module_main_content_box h3 {
+        font-size: 16px;
+    }
+
+    .moduls_content {
+        padding: 35px;
+    }
+
+    .single_review_items p {
+        line-height: 25px;
+    }
+
+    .sk_contact_area .contactUs_title p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .sk_contact_area .contact_form_content {
+        padding: 30px;
+    }
+
+    .contactUs_title {
+        margin-bottom: 30px;
+    }
+
+    .header_btn_area a {
+        background: url('../images/h_btn.png') no-repeat scroll 0 0 / 100% 100%;
+
+    }
+
+    .header_btn_area a {
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 15px;
+        padding: 16px 20px;
+    }
+
+    .heading1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .text_30 {
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: 0.6px;
+    }
+
+    .heading2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .single_review_items p {
+        width: 100%;
+        margin: auto;
+    }
+
+    .single_review_items p {
+        margin-left: 50px;
+    }
+}
+
+@media all and (max-width:575px) {
+    .text_30 {
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: 0.6px;
+    }
+    .footer_single.footer_single_last ul a {
+        margin: 0 !important;
+    }
+
+    .clients_think_main_area {
+        padding: 50px 0 20px 0;
+    }
+
+    .lets_talk_main_area {
+        padding: 50px 0;
+    }
+
+    .talk_wrapper .sub_text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .data_security_main {
+        padding: 30px 0 50px 0;
+    }
+
+    .banner_top_content .sub_tittle {
+        padding-top: 25px;
+        font-size: 16px;
+    }
+
+    .plus_img {
+        margin-top: 3px;
+    }
+
+    .plus_img img {
+        width: 16.027px;
+        height: 16.024px;
+    }
+
+    .banner_single_items {
+        padding-top: 20px;
+    }
+
+    .single_items_text .single_item_tittle {
+        padding-bottom: 10px;
+    }
+
+    .banner_top_content .about_tittle {
+        padding-bottom: 0;
+    }
+
+    .why_banner_left,
+    .about_banner_main {
+        padding-bottom: 50px;
+    }
+
+    .why_banner_main {
+        padding-top: 50px;
+    }
+
+    .option_banner_main {
+        padding-bottom: 40px;
+    }
+
+    .option_b_right {
+        margin-top: -40px !important;
+    }
+
+    .online_reporting_banner {
+        padding: 50px 0;
+    }
+
+    .banner_short_img {
+        max-width: 200px;
+    }
+
+    .report_example_wrapper {
+        gap: 30px;
+    }
+
+    .contact_single_items {
+        padding: 30px;
+    }
+
+    .contact_single_box_img {
+        max-width: 80px;
+    }
+
+    .portals_wrapper .subtittle {
+        padding-top: 20px;
+    }
+
+    .portals_wrapper .subtittle br {
+        display: none;
+    }
+
+    .portlas_main_area {
+        padding: 40px 0;
+        background: #FFF;
+    }
+
+    .dental_row {
+        margin-top: 31px;
+    }
+
+    .dental_icon_item {
+        height: 132.214px;
+        width: 156.98px;
+    }
+
+    .module_chart_box {
+        margin-top: 36px;
+    }
+
+    .result_title h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .moduls_content {
+        margin-bottom: 30px;
+    }
+
+    .footer_single a,
+    .footer_single h3 {
+        display: block;
+    }
+
+    .footer_single h3 {
+        line-height: 30px;
+        margin-bottom: 6px;
+    }
+
+    .client_review_main_area::after {
+        height: 89%;
+    }
+
+    .banner_top_area {
+        gap: 20px;
+        padding: 101px 0 60px;
+    }
+
+    .header_btn_area a {
+        font-size: 10px;
+        font-weight: 800;
+        line-height: 15px;
+        padding: 11px 16px;
+        background-size: 100% 100%;
+    }
+
+    .single_service_items:nth-child(1) .service_list_details,
+    .single_service_items:nth-child(2) .service_list_details {
+        gap: 0;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .service_list_details {
+        padding-top: 20px;
+    }
+
+    .why_choose_us_area ul li img {
+        max-width: 20px;
+        margin-top: 3px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        font-size: 45px;
+        right: 0;
+        top: 30%;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        font-size: 45px;
+        left: 0px;
+        top: 30%;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+        width: 15px;
+        height: 20px;
+        -webkit-transform: skew(-25deg, 0deg);
+        transform: skew(-25deg, 0deg);
+        margin: 0px 8px;
+    }
+
+    .owl-theme .owl-dots .owl-dot.active span {
+        width: 18px;
+        -webkit-transform: skew(0deg, 0deg);
+        transform: skew(0deg, 0deg);
+    }
+
+    .owl-theme .owl-dots,
+    .owl-theme .owl-nav {
+        text-align: center;
+        -webkit-tap-highlight-color: transparent;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .double_form_area {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .single_form {
+        margin: 20px 0;
+    }
+
+    .form_input_area input,
+    .single_form input {
+        font-size: 14px;
+        font-weight: 500;
+        width: 100%;
+        padding: 20px 20px 20px 20px;
+        border: 1px solid #000;
+    }
+
+    ::-ms-input-placeholder {
+        /* Edge 12-18 */
+        font-size: 14px;
+    }
+
+    ::-webkit-input-placeholder {
+        font-size: 14px;
+    }
+
+    ::-moz-placeholder {
+        font-size: 14px;
+    }
+
+    :-ms-input-placeholder {
+        font-size: 14px;
+    }
+
+    ::placeholder {
+        font-size: 14px;
+    }
+
+    .client_review_title {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .heading2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .single_review_items p {
+        max-width: 368px;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .checkbox-wrapper-33 .checkbox__textwrapper {
+        font-size: 16px;
+        line-height: 40px;
+        letter-spacing: 0.48px;
+    }
+
+    .footer_logo a img {
+        max-width: 200px;
+        width: 100%;
+    }
+
+    .footer_middle_txt p {
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 0.4px;
+        max-width: 505px;
+        width: 100%;
+    }
+
+    .footer_content_area {
+        padding: 60px 0 80px;
+        gap: 40px;
+    }
+ 
+
+    .footer_single .headline-f {
+        margin-bottom: 40px;
+    }
+
+}
+
+@media all and (max-width:450px) {
+    .header_content_area {
+        padding: 35px 0px 25px 0px;
+    }
+
+    .talk_wrapper .sub_text {
+        font-size: 20px;
+    }
+
+    .why_banner_left,
+    .about_banner_main {
+        padding-bottom: 40px;
+    }
+
+    .dental_icon_item {
+        height: 103.214px;
+        width: 131.98px;
+    }
+
+    .result_item {
+        flex: 0 0 29%;
+    }
+
+    .client_review_left_area .owl-prev img,
+    .client_review_left_area .owl-next img {
+        width: 12px;
+    }
+
+    .banner_btm_content {
+        padding-bottom: 70px;
+        padding-left: 0;
+    }
+
+    .heading1 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .service_main_area {
+        padding: 60px 0 40px;
+    }
+
+    .service_inner_box p {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .service_inner_box {
+        width: 270px;
+        height: 306px;
+        padding: 85px 0px;
+    }
+
+    .single_service_items:nth-child(1) .service_inner_box {
+        padding: 60px 0 76px;
+    }
+
+    .triforza_benifit_main_area {
+        background: #FFF;
+        padding: 80px 0 80px;
+    }
+
+    .single_review_items p {
+        max-width: 335px;
+        font-size: 16px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        font-size: 42px;
+        right: -10px;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        font-size: 42px;
+        left: -10px;
+    }
+
+    .checkbox-wrapper-33 .checkbox__symbol {
+        margin-right: 10px;
+        width: 22px;
+        height: 22px;
+    }
+
+    .checkbox-wrapper-33 .checkbox__textwrapper {
+        font-size: 14px;
+        line-height: 40px;
+        letter-spacing: 0.48px;
+    }
+
+    .checkbox-wrapper-33 .checkbox .icon-checkbox {
+        width: 18px;
+        height: 18px;
+    }
+
+    .text_30 {
+        font-size: 17px;
+        line-height: 24px;
+        letter-spacing: 0.6px;
+    }
+
+    .why_choose_us_area ul li {
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        -ms-grid-row-align: flex-start;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .why_choose_us_area ul li img {
+        max-width: 16px;
+    }
+    .mobile_client_img.mobile_client_img_two {
+        width: 50px;
+    }
+    .mdoule_heading_area p {
+        font-size: 16.126px;
+        line-height: 26.644px;
+        letter-spacing: 0.463px;
+    }
+}
