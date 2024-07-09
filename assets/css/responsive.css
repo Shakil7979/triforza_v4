@@ -37,6 +37,9 @@
     .new_single_dental_2 { 
         top: 43.5%; 
     }
+    .dental_new_center_icon img {
+        width: 102px; 
+    }
 }
 @media all and (max-width: 1399px) {
     .service_inner_box {
