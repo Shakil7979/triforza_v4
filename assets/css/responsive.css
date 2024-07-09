@@ -27,9 +27,17 @@
     }
     .single_banner_item_1 .banner_right img { 
         max-width: 583px !important; 
+    } 
+    .dental_center_box { 
+        width: 371px; 
+    }
+    .new_single_dental_6 { 
+        bottom: -17%; 
+    }
+    .new_single_dental_2 { 
+        top: 43.5%; 
     }
 }
-
 @media all and (max-width: 1399px) {
     .service_inner_box {
         text-align: center;
@@ -37,6 +45,39 @@
         width: 222px;
         height: 252px;
         padding: 101px 0;
+    }
+    .new_single_dental {
+        width: 391px; 
+    }
+    .dental_center_box {
+        width: 244px;
+    }
+    .dental_new_center_icon img {
+        width: 53px; 
+    }
+    .single_denta_ul ul li span { 
+        font-size: 14.114px; 
+    }
+    .single_denta_ul ul li {
+        margin-bottom: 0px;
+    }
+    .single_denta_ul ul li h4 { 
+        font-size: 18.485px; 
+    }
+    .new_single_dental_3 { 
+        bottom: -27%; 
+    }
+    .new_single_dental_1 { 
+        top: -27px; 
+    }
+    .new_single_dental_6 {
+        bottom: -39%;
+    }
+    .new_single_dental_4 { 
+        top: -27px; 
+    }
+    .new_single_dental_5 { 
+        top: 35.5%; 
     }
     .single_banner_item_1 .left_side_banner { 
         max-width: 409px;
@@ -764,12 +805,63 @@
 
 }
 
+@media all and (max-width:1200px) { 
+    .new_single_dental { 
+        position: inherit;
+        margin-top: 10px;
+    }
+    .dentals_liness {
+        display: none;
+    }
+    
+    .dental_new_section {
+        margin: 25px 0;
+    }
+    .dental_center_box { 
+        margin-top: 0;
+    }
+    .new_single_dental {  
+        margin: 10px auto 0 auto;
+    }
+    .single_new_line_mobile {
+        display: block;
+    }
+    .new_single_dental {
+        max-width: 491px;
+        width: 100%;
+    }
+    .new_single_dental_flex { 
+        position: relative;
+    }
+    .single_denta_ul ul li span {
+        font-size: 16.114px;
+    }
+    .single_denta_ul ul li h4 {
+        font-size: 21.485px;
+    }
+    .new_single_dental {
+        position: relative; 
+        top: 0 !important;
+        left: 0 !important;
+    }  
+    .new_single_dental::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        top: -12px;
+        background: #1B153E;
+        width: 5px;
+        height: 31px;
+        z-index: -1;
+    }
+}
+
 @media all and (min-width:991px) {
     .menu>ul {
         display: flex !important;
     }
-
-
     .menu {
         display: block !important;
     }
@@ -783,6 +875,9 @@
     .banner_top_area {
         gap: 50px;
         padding: 125px 0 125px;
+    }
+    .single_dental_img img {
+        width: 40px;
     }
     .single_banner_item {
         height: 644px;

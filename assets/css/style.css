@@ -3450,3 +3450,210 @@ input[type=number] {
 	position: absolute;
 	top: 0;
 } 
+
+
+.dental_center_box {
+	text-align: center;
+	position: relative;
+	width: 409px;
+	margin: 0 auto;
+	z-index: 99;
+	margin-top: 96px;
+}
+
+.dental_row_new {
+	position: relative;
+	padding: 1px;
+}
+
+.dental_center_box > img {
+	width: 100%;
+	position: relative;
+	z-index: 99;
+}
+
+.dental_new_center_icon img {
+	width: 146px;
+	position: absolute;
+	top: 64px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 99;
+}
+
+
+.dental_new_section{
+	margin: 85px 0 225px 0;
+}
+
+
+.new_line_1 img {
+	width: 209px;
+	position: absolute;
+	left: -14%;
+	top: 0;
+	z-index: 9;
+}
+
+
+.new_line_2 img {
+	width: 209px;
+	position: absolute;
+	right: -14%;
+	top: 0;
+	z-index: 9;
+}
+
+.new_line_3 img {
+	width: 59px;
+	height: 5px;
+	position: absolute;
+	top: 50%;
+	left: -100%;
+}
+
+.new_line_3 img {
+	width: 59px;
+	height: 5px;
+	position: absolute;
+	top: 50%;
+	left: -14%;
+}
+
+.new_line_4 img {
+	width: 59px;
+	height: 5px;
+	position: absolute;
+	top: 50%;
+	right: -14%;
+}
+
+
+.new_line_5 img {
+	width: 209px;
+	position: absolute;
+	left: -14%;
+	bottom: 0;
+	z-index: 9;
+}
+
+.new_line_6 img {
+	width: 209px;
+	position: absolute;
+	right: -14%;
+	bottom: 0;
+	z-index: 9;
+}
+
+.new_single_dental {
+	width: 509px;
+	border-radius: 14.813px;
+	background: #1B153E;
+	padding: 18px 24px;
+	z-index: 99;
+}
+
+.single_dental_img img {
+	width: 56px;
+}
+
+.single_denta_ul ul li img {
+	width: 13px;
+}
+
+.single_denta_ul ul li h4 {
+	color: #42F4B1;
+	font-family: Poppins;
+	font-size: 21.485px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 120%;
+	margin-bottom: 11px;
+}
+
+.single_denta_ul ul li {
+	margin-bottom: 4px;
+}
+
+.single_denta_ul ul li span {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 16.114px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 26.663px;
+	letter-spacing: 0.322px;
+}
+
+.new_single_dental_flex {
+	display: flex;
+	gap: 18px;
+}
+
+.new_single_dental_1{
+	position: absolute;
+}
+
+.dental_row_new{
+	position: relative;
+}
+
+.new_single_dental_1 {
+	position: absolute;
+	top: 0;
+	left: 29px;
+}
+
+.new_single_dental_2 {
+	position: absolute;
+	top: 44.5%;
+	left: 29px;
+}
+
+.new_single_dental_3 {
+	position: absolute;
+	bottom: -13%;
+	left: 29px;
+}
+
+.new_single_dental_4 {
+	position: absolute;
+	top: 0%;
+	right: 29px;
+}
+
+.new_single_dental_5 {
+	position: absolute;
+	top: 37.5%;
+	right: 29px;
+}
+
+.new_single_dental_6 {
+	position: absolute;
+	bottom: -14%;
+	right: 29px;
+}
+
+.single_new_line_mobile {
+	display: none;
+}
+
+.single_new_line_mobile img {
+	width: 16px;
+	transform: rotate(90deg);
+	margin: 0 auto;
+	text-align: center;
+	height: 4px;
+}
+
+.single_new_line_mobile {
+	display: none !important;
+	position: absolute;
+	transform: translateY(-35px);
+	text-align: center;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	z-index: 1;
+}
