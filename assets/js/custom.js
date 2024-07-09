@@ -13,7 +13,7 @@ $(document).ready(function () {
         loop: true,
         nav: true,
         dots: true,
-        // autoplay: true,
+        autoplay: true,
         smartSpeed: 5000,
         navText: ["<img src='assets/images/banner/left.png'>", "<img src='assets/images/banner/right.png'>"]
     });
