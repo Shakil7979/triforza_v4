@@ -1544,6 +1544,10 @@
     .logo a img {
         max-width: 150px;
     }
+    .result_title h2 { 
+        width: 80%;
+        margin: 0 auto;
+    }
     .left_side_banner { 
         text-align: center;
     }
@@ -1766,6 +1770,10 @@
         font-size: 18px;
         line-height: 24px;
         letter-spacing: 0.6px;
+    }
+    .result_title h2 {
+        width: 60%;
+        margin: 0 auto;
     }
     .footer_single.footer_single_last ul a {
         margin: 0 !important;
